@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-setup.cfg
-src/bin2/__init__.py
-src/bin2_meebox.egg-info/PKG-INFO
-src/bin2_meebox.egg-info/SOURCES.txt
-src/bin2_meebox.egg-info/dependency_links.txt
-src/bin2_meebox.egg-info/top_level.txt
